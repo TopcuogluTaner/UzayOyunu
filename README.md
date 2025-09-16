@@ -17,4 +17,4 @@ Basit bir 2D uzay oyunu. Oyuncu bir uzay gemisini kontrol ederek asteroidlerden 
 ## ▶️ Çalıştırma
 1. Depoyu klonla:
    ```bash
-   git clone https://github.com/kullaniciadi/space-game.git
+   
