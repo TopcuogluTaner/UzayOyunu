@@ -40,5 +40,5 @@ Basit bir 2D uzay oyunu. Oyuncu bir uzay gemisini kontrol ederek asteroidlerden 
 1. Depoyu klonla:
    ```bash
    https://github.com/TopcuogluTaner/UzayOyunu.git
-
+--
    ![Game Screenshot](1.png)
